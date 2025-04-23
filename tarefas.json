@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titulo": "Atualizar produtos",
+    "descricao": "Crie um codígo que atualizer uma lista de produtos no estoque",
+    "concluida": true
+  },
+  {
+    "id": 2,
+    "titulo": "Calcule a média",
+    "descricao": "Calcule a média de um aluno específico",
+    "concluida": false
+  },
+  {
+    "id": 3,
+    "titulo": "arrumar quarto",
+    "descricao": "arrumar o quarto",
+    "concluida": true
+  }
+]
